@@ -31,14 +31,16 @@ Skin Layers 3D | Transforms skins into voxelized pixels
 
 ### Essential Mods
 Mods that are essential for refining the vanilla Minecraft experience.<br>
-Some of these are dependencies that other mods rely on.
+Some of these are libraries that other mods rely on.
 
 Name | Description
 ---- | -----------
 Bad Packets | Library
 Borderless Mining | Allows the player to tab out of Minecraft without closing the window
+Chat Up | Fixes chat colliding with the player's HUD
 Fabric API | Library
 Fabric Language Kotlin | Library
+ForgetMeChunk | Fixes lag when walking through different chunks
 Mod Menu | Allows the customization of mods through the Mods menu
 Origins (+ Extra, Mobs) | Adds Origins to Minecraft, changing the way the game is played
 Pehkui | Library
