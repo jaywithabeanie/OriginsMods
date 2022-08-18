@@ -55,7 +55,7 @@ Name | Description
 ---- | -----------
 Simple Voice Chat | Adds a voice chat feature to Minecraft
 Xaero's Minimap | Adds a minimap to the screen
-Xearo's Worldmap | Adds a world map that can be accessed to map out explored regions
+Xaero's Worldmap | Adds a world map that can be accessed to map out explored regions
 
 
 
